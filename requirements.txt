@@ -1,0 +1,2 @@
+# SDL Enhancement - No external dependencies
+# Core Python 3.8+ standard library only
